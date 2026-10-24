@@ -1,0 +1,10 @@
+{
+  "name": "旅行助手",
+  "short_name": "旅行助手",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f5f1",
+  "theme_color": "#f5f5f2",
+  "lang": "zh-Hant",
+  "icons": []
+}
